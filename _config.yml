@@ -1,0 +1,60 @@
+---
+booktitle: Proceedings of The International Workshop on Cost-Sensitive Learning
+shortname: COST
+sections:
+- name: Preface
+  title: Preface
+- name: Full Papers
+  title: Full Papers
+volume: 88
+year: '2018'
+start: 2018-05-05
+end: 2018-05-05
+published: 2018-08-01
+url: http://proceedings.mlr.press
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: COST-2013
+month: 0
+cycles: false
+bibtex_editor: ''
+editor: []
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The International Workshop on Cost-Sensitive Learning
+    Held in SDM, San Diego, California, USA on 05 May 2018
+
+  Published as Volume 88 by the Proceedings of Machine Learning Research on 01 August 2018.
+
+  Volume Edited by:
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 05 May
+baseurl: "/v88"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v88
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: International Workshop on Cost-Sensitive Learning
+  url: 
+  location: SDM, San Diego, California, USA
+  dates:
+  - 2018-05-05
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from /Users/neil/mlresearch/v88/cost18.bib
