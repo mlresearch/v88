@@ -1,10 +1,10 @@
 ---
-booktitle: Proceedings of The International Workshop on Cost-Sensitive Learning
+booktitle: Proceedings of the International Workshop on Cost-Sensitive Learning
 shortname: COST
 sections:
-- name: Preface
+- name: preface
   title: Preface
-- name: Full Papers
+- name: full-paper
   title: Full Papers
 volume: 88
 year: '2018'
