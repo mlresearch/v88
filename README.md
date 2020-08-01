@@ -15,6 +15,11 @@ For details of what is required to submit a proceedings please check http://proc
 Published as Volume 88 by the Proceedings of Machine Learning Research on 01 August 2018.
 
 Volume Edited by:
+  * Luís Torgo
+  * Stan Matwin
+  * Gary Weiss
+  * Nuno Moniz
+  * Paula Branco
 
 Series Editors:
   * Neil D. Lawrence
