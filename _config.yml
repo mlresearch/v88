@@ -12,14 +12,17 @@ start: 2018-05-05
 end: 2018-05-05
 published: 2018-08-01
 url: http://proceedings.mlr.press
+author:
+  name: PMLR
 layout: proceedings
 series: Proceedings of Machine Learning Research
 issn: 2640-3498
 id: COST-2013
 month: 0
 cycles: false
-bibtex_editor: 'Torgo, Lu\{i}s and Matwin, Stan and Weiss, Gary and Moniz, Nuno and Branco, Paula'
-editor: 
+bibtex_editor: Torgo, Lu\{i}s and Matwin, Stan and Weiss, Gary and Moniz, Nuno and
+  Branco, Paula
+editor:
 - given: Luís
   family: Torgo
 - given: Stan
